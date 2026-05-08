@@ -1,1 +1,1 @@
-import App from './App.jsx'
+// Chargé via App.jsx directement
