@@ -1,9 +1,11 @@
-const CACHE = "monjeu-v1";
-
+const CACHE = "monjeu-v2";
 const FILES = [
-  "./",
-  "./index.html",
-  "./manifest.json"
+  "/Azteca-1/",
+  "/Azteca-1/index.html",
+  "/Azteca-1/manifest.json",
+  "/Azteca-1/dist/assets/index-Dd7kAKA0.js",
+  "/Azteca-1/icon-192.png",
+  "/Azteca-1/icon-512.png"
 ];
 
 self.addEventListener("install", e => {
