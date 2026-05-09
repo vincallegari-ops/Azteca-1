@@ -2,20 +2,20 @@
   "name": "AZTECA",
   "short_name": "AZTECA",
   "description": "Jeu de stratégie mobile",
-  "start_url": "/vincallegari-ops/Azteca-1/",
-  "scope": "/vincallegari-ops/Azteca-1/",
+  "start_url": "/Azteca-1/",
+  "scope": "/Azteca-1/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1a1a2e",
   "theme_color": "#16213e",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/Azteca-1/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "/Azteca-1/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
