@@ -978,8 +978,8 @@ function App(){
       var gap0=fr.army-tg.army;
       var aL0,dL0;
       if(gap0<2){aL0=6;dL0=4;}else if(gap0<=5){aL0=4;dL0=6;}else if(gap0<=10){aL0=3;dL0=8;}else{aL0=1;dL0=12;}
-      var defBonus=defB(fr.army,tg.army),wallBonus=tg.wall?1:0,db2=defBonus+wallBonus;
-      var d1b=d6(),d2b=d6(),dR2=d1b+d2b+db2;
+      var defBonus = defB(tg.army, fr.army), wallBonus = tg.wall ? 1 : 0, db2 = defBonus + wallBonus;
+      var d1b = d6(), d2b = d6(), dR2 = Math.max(2, Math.min(14, d1b + d2b + db2));
       var en=ps[tg.owner];
       dI={myD1:d1a,myD2:d2a,myBonus:0,eD1:d1b,eD2:d2b,eBonus:db2,eDefBonus:defBonus,eWallBonus:wallBonus,eName:en?en.name:"?",neutral:false,dR:dR2,gap:gap0,atkLoss:aL0,defLoss:dL0};
   }

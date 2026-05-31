@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path src -Recurse -Filter \"*.js\" -o -Filter \"*.ts\")",
+      "Bash(Select-Object FullName)",
+      "Bash(python3)"
+    ]
+  }
+}
