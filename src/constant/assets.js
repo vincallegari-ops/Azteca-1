@@ -1,0 +1,57 @@
+export {default as BARON_FONT} from "../fonts/baron-neue.regular.otf";
+export {default as PATHWAY_FONT} from "../fonts/pathway-extreme.regular.otf";
+
+export {default as ACCUEIL_IMG} from "../assets/ui/ACCUEIL_IMG.webp";
+export {default as FOND_IMG}    from "../assets/ui/FOND_IMG.webp";
+export {default as BTN_NP}     from "../assets/ui/BTN_NP.webp";
+export {default as BTN_TU}     from "../assets/ui/BTN_TU.webp";
+export {default as BTN_ANNULER} from "../assets/ui/BTN_ANNULER.webp";
+export {default as BTN_CONFIRM} from "../assets/ui/BTN_CONFIRM.webp";
+export {default as BTN_BATAILLE} from "../assets/ui/BTN_BATAILLE.webp";
+export {default as BTN_PASSER} from "../assets/ui/BTN_PASSER.webp";
+export {default as BTN_QUITTER} from "../assets/ui/BTN_QUITTER.webp";
+export {default as BTN_REGLES} from "../assets/ui/BTN_REGLES.webp";
+export {default as BTN_REJOINDRE} from "../assets/ui/BTN_REJOINDRE.webp";
+export {default as COIN_IMG}    from "../assets/ui/COIN_IMG.webp";
+export {default as SOLEIL_AZTEC} from "../assets/ui/SOLEIL_AZTEC.webp";
+
+export {default as BLOC_EAGLE} from "../assets/clan/BLOC_EAGLE.webp";
+export {default as BLOC_JAGUAR} from "../assets/clan/BLOC_JAGUAR.webp";
+export {default as BLOC_SNAKE} from "../assets/clan/BLOC_SNAKE.webp";
+export {default as BLOC_PIRANHA} from "../assets/clan/BLOC_PIRANHA.webp"
+export {default as BTN_ATK_EAGLE} from "../assets/clan/BTN_ATK_EAGLE.webp";
+export {default as BTN_ATK_JAGUAR} from "../assets/clan/BTN_ATK_JAGUAR.webp";
+export {default as BTN_ATK_SNAKE} from "../assets/clan/BTN_ATK_SNAKE.webp";
+export {default as BTN_ATK_PIRANHA} from "../assets/clan/BTN_ATK_PIRANHA.webp";
+export {default as CLAN_BTN_EAGLE} from "../assets/clan/CLAN_BTN_EAGLE.webp";
+export {default as CLAN_BTN_JAGUAR} from "../assets/clan/CLAN_BTN_JAGUAR.webp";
+export {default as CLAN_BTN_SNAKE} from "../assets/clan/CLAN_BTN_SNAKE.webp";
+export {default as CLAN_BTN_PIRANHA} from "../assets/clan/CLAN_BTN_PIRANHA.webp";
+export {default as HEX_EAGLE} from "../assets/clan/HEX_EAGLE.webp";
+export {default as HEX_JAGUAR} from "../assets/clan/HEX_JAGUAR.webp";
+export {default as HEX_SNAKE} from "../assets/clan/HEX_SNAKE.webp";
+export {default as HEX_PIRANHA} from "../assets/clan/HEX_PIRANHA.webp";
+export {default as HEX_PAYSAN} from "../assets/clan/HEX_PAYSAN.webp";
+
+export {default as BANK_IMG} from "../assets/ui/map/BANK_IMG.webp";
+export {default as BARRACKS_IMG} from "../assets/ui/map/BARRACKS_IMG.webp";
+export {default as TOWER_IMG} from "../assets/ui/map/TOWER_IMG.webp";
+export {default as BANQUE_CST} from "../assets/ui/map/BANQUE_CST.webp";
+export {default as CASERNE_CST} from "../assets/ui/map/CASERNE_CST.webp";
+export {default as TOUR_CST} from "../assets/ui/map/TOUR_CST.webp";
+export {default as COMPTEUR_OR} from "../assets/ui/map/COMPTEUR_OR.webp";
+export {default as CONSTR_BANK} from "../assets/ui/map/CONSTR_BANK.webp";
+export {default as CONSTR_BARRACKS} from "../assets/ui/map/CONSTR_BARRACKS.webp";
+export {default as CONSTR_TOWER} from "../assets/ui/map/CONSTR_TOWER.webp"; 
+export {default as PARCHEMIN} from "../assets/ui/PARCHEMIN.webp";
+export {default as PARCHEMIN_EVT} from "../assets/ui/PARCHEMIN_EVT.webp";
+
+export {default as P_CUAUH} from "../assets/ui/perso/P_CUAUH.webp";
+export {default as P_HUITZ} from "../assets/ui/perso/P_HUITZ.webp";
+export {default as P_IZTA} from "../assets/ui/perso/P_IZTA.webp";
+export {default as P_JOUEUR} from "../assets/ui/perso/P_JOUEUR.webp";
+export {default as P_TLAL} from "../assets/ui/perso/P_TLAL.webp";
+export {default as P_QUETZ} from "../assets/ui/perso/P_QUETZ.webp";
+export {default as P_MOCTE} from "../assets/ui/perso/P_MOCTE.webp";
+export {default as P_NEZA} from "../assets/ui/perso/P_NEZA.webp";
+export {default as P_TLACA} from "../assets/ui/perso/P_TLACA.webp";
