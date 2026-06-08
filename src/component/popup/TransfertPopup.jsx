@@ -95,11 +95,6 @@ export default function TrDistribPopup({ from, to, pl, max, onConfirm, onCancel 
           </div>
         </div>
 
-        {/* Valeur */}
-        <div style={{ fontFamily: "'BaronNeue','Black Ops One',serif", fontSize: 16, color: "#FCD34D" }}>
-          {amt} soldat{amt > 1 ? "s" : ""}
-        </div>
-
         {/* Boutons */}
         <div style={{ display: "flex", gap: 20, alignItems: "center", justifyContent: "center" }}>
           <div onClick={function() { onConfirm(amt); }} style={{ cursor: "pointer" }}>
