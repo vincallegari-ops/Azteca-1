@@ -607,7 +607,7 @@ export default function Game() {
 
       {/* Popup transfert */}
       {pendingTransfer && ti[pendingTransfer.fI] && ti[pendingTransfer.tI] && (
-        <TrDistribPopup
+        <TransfertPopup
           from={ti[pendingTransfer.fI]} to={ti[pendingTransfer.tI]}
           pl={pl} max={Math.max(1, Math.floor(ti[pendingTransfer.fI].army * 0.5))}
           onConfirm={function(amt) {
